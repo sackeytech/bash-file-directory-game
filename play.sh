@@ -272,17 +272,6 @@ then
 		
 		directoryandfile "$diroundwon" "$diroundlost" "$fileroundwon" "$fileroundlost" "$totalround"  
 
-
-
-
-
-
-
-
-
-
-
-		
 	fi			
 else
 	echo "EXIT GAME !!!"
