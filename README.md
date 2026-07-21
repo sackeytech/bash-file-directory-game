@@ -39,7 +39,7 @@ A simple interactive terminal game built with Bash scripting for my operating sy
   ```bash
   bash play.sh or source play.sh or ./play.sh
 ```
-##Author
+## Author
 
 * **Caleb Nyannney Sackey**
 
