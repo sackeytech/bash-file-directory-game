@@ -38,8 +38,9 @@ A simple interactive terminal game built with Bash scripting for my operating sy
 4.Run the game using this bash command:
   ```bash
   bash play.sh or source play.sh or ./play.sh
-
+```
 ##Author
+
 * **Caleb Nyannney Sackey**
 
 
